@@ -7,3 +7,5 @@ def greet_many(greeting, *args):
 
 print(greet_many("Hello", "Richard", "Sofia"))
 
+
+
